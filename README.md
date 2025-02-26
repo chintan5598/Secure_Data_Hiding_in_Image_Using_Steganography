@@ -90,5 +90,5 @@ Special thanks to **Channabasava Yadav and Vignesh M from Edunet** for their gui
 
 ## Contact
 For any queries or suggestions, contact:
-- **GitHub**:https://github.com/A-zhar/steganography-cybersecuirty-project
-- **Email**: khajaazharuddin312@gmail.com
+- **GitHub**:[https://github.com/chintan5598/Secure_Data_Hiding_in_Image_Using_Steganography]
+- **Email**: chintan5598@gmail.com
