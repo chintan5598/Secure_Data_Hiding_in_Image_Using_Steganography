@@ -82,7 +82,7 @@ Developed using:
 
 
 ## Contributors
-- **Chintan Parmar
+- **Chintan Parmar**
 - **Channabasava Yadav & Vignesh M (Edunet)** – Mentors
 
 ## Acknowledgment
